@@ -1,6 +1,6 @@
 ### Roda da prenda ###
 
-Este projeto foi criado com base em uma palestra sobre uma palestra que ocorreu no BrazilJS On The Road Brasilia.
+Este projeto foi criado com base em uma palestra que ocorreu no BrazilJS On The Road Brasilia.
 Na palestra eles pensaram em como inovar os seus sorteios.
 
 No dia posterior ocorreria o chá de panela da minha irmã, com essa idéia em mente decidi alterar este pequeno projeto para
