@@ -3,7 +3,7 @@
 Este projeto foi criado com base em uma palestra que ocorreu no BrazilJS On The Road Brasilia.
 Na palestra eles pensaram em como inovar os seus sorteios.
 
-No dia posterior ocorreria o chá de panela da minha irmã, com essa idéia em mente decidi alterar este pequeno projeto para
+No dia posterior ocorreria o chá de panela da minha irmã, com essa idéia em mente decidi criar este pequeno projeto para
 que realizasse o sorteio das prendas para os noivos.
 
 
